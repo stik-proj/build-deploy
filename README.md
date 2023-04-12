@@ -1,2 +1,2 @@
 # build-deploy
-Project build and deploy log
+Projects build and deploy
